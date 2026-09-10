@@ -2,3 +2,6 @@
 *.wav
 *.part
 *.ytdl
+frames_raw/
+frames_read/
+_crop_*.png
